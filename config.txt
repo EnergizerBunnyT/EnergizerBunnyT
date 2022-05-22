@@ -1,0 +1,3 @@
+{"ip":"TheOneAGT.aternos.me",
+"name":"EnergizerBunnyT",
+"port":"50924"}
